@@ -44,7 +44,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         
-         document.title = "Portfolio | Anitha";
+         document.title = "Portfolio | Mekha";
          $("#favicon").attr("href", "assets/images/favicon.png");
         
     });
@@ -52,7 +52,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["full-stack developement","frontend development", "backend development", "web designing","product design" , "web development"],
+    strings: ["UX Designing","Graphic Designing", "Marketing", "Social Media","Digital Marketing"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
